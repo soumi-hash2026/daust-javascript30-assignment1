@@ -54,7 +54,7 @@ The project is a small interactive food list called **Local Tapas**. Users can a
 * [x] Used `data-index` to identify the selected food item.
 * [x] Updated an item's `done` status when its checkbox was clicked.
 * [x] Saved checkbox changes to LocalStorage.
-* [ ] Completed a final test of all features after refreshing the page.
+* [x] Completed a final test of all features after refreshing the page.
 
 ## What I Learned
 
